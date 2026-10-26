@@ -14,8 +14,8 @@
 | Підгрупа | КН-42 |
 | Тема проєкту | Planning Poker |
 | Варіант вхідних умов | V04 |
-| Трекер | посилання |
-| Дошка | посилання |
+| Трекер | [GitHub Projects](https://github.com/users/stkossman/projects/7) |
+| Дошка | [Planning Poker - Project Management](https://github.com/users/stkossman/projects/7) |
 | Валюта проєкту | для кошторису ЛР16 |
 | Contingency, % | від прямих витрат, ЛР16 |
 

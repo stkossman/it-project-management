@@ -1,1 +1,6 @@
 stakeholder_id,name_or_role,organization,interest,influence,attitude,strategy,owner
+ST-01,Уповноважений представник кафедри-замовника,Навчальна кафедра Agile та управління проєктами,high,high,supporter,manage_closely,PM
+ST-02,Представник викладачів-ведучих занять,Навчальна кафедра Agile та управління проєктами,high,high,supporter,manage_closely,PM
+ST-03,Представник студентів-учасників,Навчальна група користувачів,high,low,supporter,keep_informed,QA
+ST-04,Представник іншої зацікавленої кафедри,Навчальна кафедра потенційного повторного використання,low,low,neutral,monitor,PM
+ST-05,Уповноважений із погодження ІТ та безпеки (припущення),Навчальна університетська ІТ-служба (припущення),low,high,neutral,keep_satisfied,Developer (100%)

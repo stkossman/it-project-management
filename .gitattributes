@@ -1,0 +1,3 @@
+# Зберігати вхідні докази LR17 побайтово, без нормалізації закінчень рядків.
+lr17_ai_assistant/manual-analysis.txt -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+lr17_ai_assistant/lr17_manual_comparison.md -text

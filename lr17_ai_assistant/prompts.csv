@@ -1,1 +1,5 @@
 run_id,date,tool,goal,artifact,has_input,iterations,result,note
+"P-01","2026-10-29","Codex / GPT-6","Початковий розбір 14 нотаток","lr17_ai_assistant/tasks.csv","yes","1","used_with_edits","Операція поточного агента; незмінний вихід у README §6; без людської baseline"
+"P-02","2026-10-29","Codex / GPT-6","Уточнення без вигаданих власників дат і рішень","lr17_ai_assistant/tasks.csv","yes","2","used_with_edits","Друга версія промпта; 16 перевірених пунктів; людське review очікується"
+"P-03","2026-10-29","Codex / GPT-6","Десять гіпотетичних причин провалу","lr17_ai_assistant/README.md","yes","1","used_with_edits","Гіпотези з тегами збережено; до реєстру фактів не перенесено"
+"P-04","2026-10-29","Codex / GPT-6","LR16: прайс і резерви з V04 та ризиків","lr16_budget/README.md","yes","1","used_with_edits","Поточне доручення секція 5; початкові 9.75918% виправлено Decimal на 9.7601375%; округлений резерв 9.8% не змінено"

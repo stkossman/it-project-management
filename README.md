@@ -16,8 +16,8 @@
 | Варіант вхідних умов | V04 |
 | Трекер | [GitHub Projects](https://github.com/users/stkossman/projects/7) |
 | Дошка | [Planning Poker - Project Management](https://github.com/users/stkossman/projects/7) |
-| Валюта проєкту | для кошторису ЛР16 |
-| Contingency, % | від прямих витрат, ЛР16 |
+| Валюта проєкту | грн |
+| Contingency, % | 9.8 |
 
 ## Опис проєкту
 

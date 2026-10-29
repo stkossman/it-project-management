@@ -1,1 +1,4 @@
 role,fte,hours,rate,source,note
+PM,0.25,80,526.32,https://dou.ua/lenta/articles/salary-report-managers-winter-2025/,Middle Project Manager 2193 USD; масштаб 0.24; умовна ставка проєкту
+Dev,1.5,480,600,https://dou.ua/lenta/articles/salary-report-devs-winter-2025/,Middle Back-end 2500 USD; масштаб 0.24; сумарна роль двох Dev
+QA,0.5,160,480,https://dou.ua/lenta/articles/salary-report-qa-winter-2025/,Медіана QA в Україні 2000 USD; масштаб 0.24; змішаний профіль тестування

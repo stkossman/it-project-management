@@ -24,15 +24,19 @@
 
 ## Як це працює на практиці
 
-Станом на 2026-10-29: **1 з 1 технічно закритих історій** проходить DoD:
-S-11 (3 SP), [issue #1](https://github.com/stkossman/planning-poker/issues/1),
-[коміт 5885ad3](https://github.com/stkossman/planning-poker/commit/5885ad3e44dcd0800bbb5efe1eeb896dadc8a187). Автотести 14/14, build/typecheck,
-окремий браузерний профіль, desktop/mobile, SQLite restart і self-review
-підтверджені в [журналі](../lr03_sprint_simulation/sprints.md).
-S-01/S-02 мають лише частину критеріїв і лишаються відкритими.
-Спринт триває; кінцевий підсумок і velocity ще не визначені.
-Часткові критерії не дають часткових SP; завершення спринта й velocity
-фіксуються лише в його фактичний останній день.
+Станом на 2026-10-29 **4 з 4 технічно завершених історій** проходять DoD:
+S-11 (3 SP), S-01 (5), S-02 (3), S-03 (8), разом 19 SP.
+Новий інкремент:
+[b079b0d](https://github.com/stkossman/planning-poker/commit/b079b0d6321b297d2c836e7618e40c09fd84920b),
+[CI success](https://github.com/stkossman/planning-poker/actions/runs/40917206745).
+25 API-тестів, build/typecheck, 25 незалежних браузерних контекстів
+(max 3168 ms), desktop/mobile, клавіатура й реальний API restart підтверджені
+в [журналі](../lr03_sprint_simulation/sprints.md) та issues #1–#4.
+
+S-03 — 8 SP доданої роботи, початковий commitment лишився 11 SP; поточний
+обсяг 19 >15, що треба пояснити на огляді. Спринт триває; 19 SP — проміжний
+технічний підсумок, не кінцева velocity. Формальне приймання замовника,
+академічна експлуатація та SC-01 пілот не підтверджені.
 
 ## Хто ухвалює відхилення від DoD
 
